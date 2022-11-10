@@ -1,0 +1,16 @@
+body {
+	height: 300vh;
+	background: black;
+}
+
+.exemplo{
+	width: 200px;
+	height: 200px;
+	line-height: 200px;
+	color: wheat;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+}
+
+exemplo1{}
