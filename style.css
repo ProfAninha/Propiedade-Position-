@@ -25,6 +25,7 @@ exemplo1{
     background-color: green;
     position: absolute;
     left: 50%;
+    top: 50%;
     transform: translate(-50%, -50%);
 
 }
@@ -34,10 +35,11 @@ exemplo1{
     position: relative;
 }
 
-.exemplointerno{
-    position: absolute;
+.exemplointerno {
+    position: sticky;
     transform: translate(50%, 50%);
     width: 100px;
     height: 100px;
     line-height: 100px;
     background-color: gold;
+    }
