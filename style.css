@@ -1,6 +1,6 @@
 body {
 	height: 300vh;
-	background: blueviolet;
+	background: burlywood;
 }
 
 .exemplo{
@@ -14,7 +14,7 @@ body {
 }
 
 exemplo1{
-    background-color: blue;
+    background-color: greenyellow;
     position: fixed;
     right: 10px;
     top: 10px;
